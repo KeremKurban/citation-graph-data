@@ -1,0 +1,5 @@
+outs:
+- md5: e5a807f9eec91539fb61e75ac4018474
+  size: 811232
+  hash: md5
+  path: authors.csv
